@@ -27,7 +27,7 @@ if(image_xscale > 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 24497E43
 	/// @DnDParent : 2A5EC21F
-	/// @DnDArgument : "objind" "oEnemy"
-	/// @DnDSaveInfo : "objind" "oEnemy"
-	instance_change(oEnemy, true);
+	/// @DnDArgument : "objind" "oOcto"
+	/// @DnDSaveInfo : "objind" "oOcto"
+	instance_change(oOcto, true);
 }
