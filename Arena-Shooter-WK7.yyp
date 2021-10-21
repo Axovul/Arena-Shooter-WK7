@@ -2,8 +2,21 @@
   "resources": [
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"sDeath","path":"sounds/sDeath/sDeath.yy",},"order":15,},
+    {"id":{"name":"sTitleScreen","path":"sprites/sTitleScreen/sTitleScreen.yy",},"order":4,},
+    {"id":{"name":"oEnemyspawn","path":"objects/oEnemyspawn/oEnemyspawn.yy",},"order":5,},
+    {"id":{"name":"fScore","path":"fonts/fScore/fScore.yy",},"order":0,},
+    {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},"order":3,},
+    {"id":{"name":"sDarkTile","path":"sprites/sDarkTile/sDarkTile.yy",},"order":3,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":1,},
+    {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},"order":6,},
+    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
+    {"id":{"name":"tiles2","path":"sprites/tiles2/tiles2.yy",},"order":1,},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},"order":1,},
+    {"id":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"order":0,},
+    {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":2,},
+    {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},"order":4,},
+    {"id":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -18,6 +31,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
